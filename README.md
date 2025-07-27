@@ -1,34 +1,29 @@
-# 📝 Web Tabanlı To-Do List Uygulaması
+# 📝 Web-Based To-Do List Application
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilen web tabanlı bir görev takip (To-Do List) uygulamasıdır. Kullanıcılar görev ekleyebilir, tamamlayabilir, filtreleyebilir ve görev geçmişini yerel depolama (localStorage) ile saklayabilir.
+This project is a web-based task tracking (To-Do List) application built using HTML, CSS, and JavaScript. Users can add, complete, filter tasks, and store their task history using localStorage.
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- ✅ Görev ekleme ve silme  
-- ✅ Görev tamamlama / geri alma  
-- ✅ Filtreleme: Tüm görevler, Aktif görevler, Tamamlanmış görevler  
-- ✅ Tamamlanan görevleri topluca temizleme  
-- ✅ LocalStorage ile veri kalıcılığı  
-- ✅ Görev eklenince başarı mesajı  
-- ✅ Uygulama açıldığında hoş geldin bildirimi  
-- ✅ Görevlere tarih ekleme  
-- ✅ Şık ve responsive tasarım  
-- ✅ CSS animasyonları ile yumuşak geçişler  
+✅ Add and delete tasks  
+✅ Mark tasks as completed / undo  
+✅ Filtering: All tasks, Active tasks, Completed tasks  
+✅ Clear all completed tasks  
+✅ Persistent data with localStorage  
+✅ Success message on task addition  
+✅ Welcome notification on app load  
+✅ Add due date to tasks  
+✅ Sleek and responsive design  
+✅ Smooth transitions with CSS animations
 
-## 🖼️ Uygulama Ekran Görüntüsü
+## 🖼️ Application Screenshot
 
-> *(Buraya uygulamandan bir ekran görüntüsü eklersen çok etkileyici olur!)*  
-> Örnek: `![To-Do App](./screenshot.png)`
+(Add a screenshot of your app here to make it more impressive!)  
+Example:  
+![To-Do App](./assets/screenshot.png)
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Responsive Design + Animasyonlar)
-- JavaScript (Vanilla JS)
+- HTML5  
+- CSS3 (Responsive Design + Animations)  
+- JavaScript (Vanilla JS)  
 - localStorage API
-
-## 📦 Nasıl Çalıştırılır?
-
-1. Bu projeyi indir veya klonla:
-   ```bash
-   git clone https://github.com/kullanici-adi/proje-adi.git
